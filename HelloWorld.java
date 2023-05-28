@@ -1,8 +1,8 @@
-import java.io.*
-Public Class Simple
+import java.io.*;
+public class HelloWorld
 {
-	Public static void main(Strings[])
-	(
-		System.out.print("Hello World");
+	public static void main(String[] args)
+	{
+		System.out.println("Hello World");
 	}
 }
